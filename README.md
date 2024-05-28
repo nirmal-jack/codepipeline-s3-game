@@ -39,6 +39,15 @@ The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code fr
     .
     ![create pipeline](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/92daeb67-8076-4941-95d9-5facb021dd78)
 
+  - Give a name to the pipeline like "meme-pipeline" and select v1, because v1 is sufficient for this project.
+![create](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/ad95fda4-be95-4717-871b-c801d3d2a2d1)
+
+    
+  - Click on "new service role", give the name and give next.
+
+    ![create1](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/7030135f-fba0-4d1e-ad30-905ca64224c8)
+
+
 
 
 
