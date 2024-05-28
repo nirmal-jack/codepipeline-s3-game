@@ -92,6 +92,10 @@ The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code fr
                 - now to open the website ,go to the bucket, choose the static website hosting option, and we could click on the URL, and we could find the game available.
                   ![static](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/c8482047-cb0c-418b-bed3-00472dacfe16)
 
+                  - now to check if the changes in the source code, gets automatically triggered and deployed to s3, make any small changes in the index.html file and refresh the game page.
+                  - the pipeline automatically detects the changes and deploys it to s3 and the website gets changed with the changes done.
+                    
+
 
 
 
