@@ -60,6 +60,10 @@ The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code fr
       
       ![installanew](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/ee6ce4ac-4f08-49db-a19d-1c5ba4018a9c)
 
+      - the personal github account opens, here we can choose select a repository and give the repo for the game.
+        ![github](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/e0a03940-66c0-4cb7-8f21-7e4ba4437402)
+
+
       
 
 
