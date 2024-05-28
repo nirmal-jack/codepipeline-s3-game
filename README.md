@@ -18,4 +18,10 @@ The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code fr
 - login to AWS Console and create a S3 Bucket name "my-meme-game28"
   ![s3 bucket](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/76dfe03d-2e09-4987-9fbc-2a9e14e7fca2)
 
+- go inside the bucket and click on properties, scroll all the way down and choose enable option in "static website hosting"
+
+
+  ![image](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/647b53cd-363d-4324-adbd-844d272e8784)
+
+
 
