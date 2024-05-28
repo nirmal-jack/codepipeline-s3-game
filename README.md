@@ -85,6 +85,16 @@ The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code fr
 
               ![review1](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/9711396a-f4ff-4c34-81c6-196544c85ab0)
 
+              - the pipeline runs successfully as shown below.
+                ![deploy](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/ea085673-12ca-4f21-a927-d907a53ffe0a)
+                ![deply1](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/66dc8fbb-86b8-4042-b264-1e352cab6d8f)
+
+                - now to open the website ,go to the bucket, choose the static website hosting option, and we could click on the URL, and we could find the game available.
+                  ![static](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/c8482047-cb0c-418b-bed3-00472dacfe16)
+
+
+
+
 
 
 
