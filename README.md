@@ -94,6 +94,9 @@ The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code fr
 
                   - now to check if the changes in the source code, gets automatically triggered and deployed to s3, make any small changes in the index.html file and refresh the game page.
                   - the pipeline automatically detects the changes and deploys it to s3 and the website gets changed with the changes done.
+                 
+                  ![Capture](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/8b64f86e-4ce4-445f-ac27-9238ba7bf92b)
+
                     
 
 
