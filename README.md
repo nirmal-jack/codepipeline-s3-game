@@ -60,8 +60,29 @@ The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code fr
       
       ![installanew](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/ee6ce4ac-4f08-49db-a19d-1c5ba4018a9c)
 
-      - the personal github account opens, here we can choose select a repository and give the repo for the game.
+      - the personal github account opens, here we can choose select a repository and give the repo for the game and give install.
         ![github](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/e0a03940-66c0-4cb7-8f21-7e4ba4437402)
+
+        - next the pipeline connect gets automatically selected, choose the repo name and the branch. choose codepipeline default, select the trigger type and give next.
+
+          ![main](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/d8b772a2-18be-4ea3-984f-8ddf97be8493)
+
+          - onto the build part, we could choose to build using AWSCODEBUILD or jenkins.. otherwise we could skip the part.
+          - now for code deploy, we could choose s3.
+
+          -![deploy](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/6a3e9cf1-1b35-4972-b3ca-5b9c3979f274)
+
+          ![s3](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/509dcdfe-55c7-4a17-8083-cd34dfeebf79)
+
+          - give the bucket name and choose "extract file before deply' and give next.
+
+
+            ![new](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/98533399-bc66-4cb7-9f5f-88d392a13064)
+
+
+
+
+
 
 
       
