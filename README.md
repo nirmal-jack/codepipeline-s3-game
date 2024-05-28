@@ -33,6 +33,13 @@ The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code fr
 
   ![bucket policy](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/6e8e4b70-2d10-4c98-9eb3-cdfd04aae491)
 
+  - now we got our code in github, the s3 bucket is setup and permission is give for static website hosting with a bucket policy, now we need to create a code pipeline that will orchaestrate getting the code from github and upto the bucket.
+ 
+  - Headover to the aws console and open AWS CODEPIPELINE. Click on create pipeline
+    .
+    ![create pipeline](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/92daeb67-8076-4941-95d9-5facb021dd78)
+
+
 
 
 
