@@ -15,4 +15,7 @@ The code will be deployed and hosted in S3.
 The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code from GitHub, and deploys it to S3 whenever a change is detected in the code.
 
 ************************************
+- login to AWS Console and create a S3 Bucket name "my-meme-game28"
+  ![s3 bucket](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/76dfe03d-2e09-4987-9fbc-2a9e14e7fca2)
+
 
