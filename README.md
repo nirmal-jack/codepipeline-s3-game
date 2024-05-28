@@ -24,4 +24,9 @@ The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code fr
   ![image](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/647b53cd-363d-4324-adbd-844d272e8784)
 
 
+- Click on the option enable and give the name of the html file ... "index.html" and click on save changes.
+
+  ![static1](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/337dda31-7e1b-4c25-a740-beb551230242)
+
+
 
