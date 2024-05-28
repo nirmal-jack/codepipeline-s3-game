@@ -29,4 +29,10 @@ The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code fr
   ![static1](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/337dda31-7e1b-4c25-a740-beb551230242)
 
 
+- the other change we need to make is on the "permissions". we have initially all public access to the website, but if we need players to play the game, we should add, "Bucket Policy". write the policy and save changes
+
+  ![bucket policy](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/6e8e4b70-2d10-4c98-9eb3-cdfd04aae491)
+
+
+
 
