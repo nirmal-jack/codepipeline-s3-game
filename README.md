@@ -50,7 +50,8 @@ The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code fr
 
   - for the source provider, choose github (version 2) and then choose "Connect to github". Here we need to connect github to AWS Codepipeline
     ![source](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/ca4d1198-7b96-4892-8b61-b8b6225cca4d)
- 
+
+ - give a name like "meme-github-connect"
     ![connect](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/98ae0b43-0c71-4d33-adc1-de08d4b2e950)
 
 
@@ -58,6 +59,8 @@ The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code fr
    
       
       ![installanew](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/ee6ce4ac-4f08-49db-a19d-1c5ba4018a9c)
+
+      
 
 
 
