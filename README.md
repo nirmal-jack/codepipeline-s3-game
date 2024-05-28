@@ -79,6 +79,13 @@ The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code fr
 
             ![new](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/98533399-bc66-4cb7-9f5f-88d392a13064)
 
+            - review the full stages and give the option create pipeline.
+           
+              ![review](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/b7d990ea-256e-4290-b198-d15af55c0afb)
+
+              ![review1](https://github.com/nirmal-jack/codepipeline-s3-game/assets/170439621/9711396a-f4ff-4c34-81c6-196544c85ab0)
+
+
 
 
 
